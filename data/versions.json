@@ -1,0 +1,52 @@
+{
+  "Ansible": {
+    "published_at": "2026-09-08T16:52:09Z",
+    "tag": "v2.21.4",
+    "url": "https://github.com/ansible/ansible/releases/tag/v2.21.4"
+  },
+  "Argo CD": {
+    "published_at": "2026-09-14T07:58:59Z",
+    "tag": "v3.5.3",
+    "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.3"
+  },
+  "Docker (moby)": {
+    "published_at": "2026-09-30T20:28:33Z",
+    "tag": "docker-v29.8.2",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.8.2"
+  },
+  "Grafana": {
+    "published_at": "2026-09-29T09:02:18Z",
+    "tag": "v13.2.3",
+    "url": "https://github.com/grafana/grafana/releases/tag/v13.2.3"
+  },
+  "Helm": {
+    "published_at": "2026-09-09T23:51:48Z",
+    "tag": "v4.3.0",
+    "url": "https://github.com/helm/helm/releases/tag/v4.3.0"
+  },
+  "Kubernetes": {
+    "published_at": "2026-09-23T19:13:17Z",
+    "tag": "v1.37.1",
+    "url": "https://github.com/kubernetes/kubernetes/releases/tag/v1.37.1"
+  },
+  "Prometheus": {
+    "published_at": "2026-09-25T08:56:22Z",
+    "tag": "v3.15.0",
+    "url": "https://github.com/prometheus/prometheus/releases/tag/v3.15.0"
+  },
+  "Terraform": {
+    "published_at": "2026-10-02T13:04:00Z",
+    "tag": "v1.16.5",
+    "url": "https://github.com/hashicorp/terraform/releases/tag/v1.16.5"
+  },
+  "Trivy": {
+    "published_at": "2026-10-01T13:34:13Z",
+    "tag": "v0.75.0",
+    "url": "https://github.com/aquasecurity/trivy/releases/tag/v0.75.0"
+  },
+  "containerd": {
+    "published_at": "2026-09-24T23:40:25Z",
+    "tag": "v2.4.1",
+    "url": "https://github.com/containerd/containerd/releases/tag/v2.4.1"
+  }
+}
