@@ -1,0 +1,19 @@
+name: Tests
+
+on:
+  push:
+    branches: [main]
+    paths: ["digest/**", "tests/**", "pyproject.toml"]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: pip install pytest==8.2.2 ruff==0.5.0
+      - run: ruff check . && ruff format --check .
+      - run: pytest -q
