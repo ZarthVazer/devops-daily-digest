@@ -1,8 +1,8 @@
 {
   "Ansible": {
-    "published_at": "2026-09-08T16:52:09Z",
-    "tag": "v2.21.4",
-    "url": "https://github.com/ansible/ansible/releases/tag/v2.21.4"
+    "published_at": "2026-10-05T15:11:41Z",
+    "tag": "v2.21.5",
+    "url": "https://github.com/ansible/ansible/releases/tag/v2.21.5"
   },
   "Argo CD": {
     "published_at": "2026-09-14T07:58:59Z",
