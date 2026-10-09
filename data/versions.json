@@ -10,9 +10,9 @@
     "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.4"
   },
   "Docker (moby)": {
-    "published_at": "2026-09-30T20:28:33Z",
-    "tag": "docker-v29.8.2",
-    "url": "https://github.com/moby/moby/releases/tag/docker-v29.8.2"
+    "published_at": "2026-10-08T21:34:57Z",
+    "tag": "docker-v29.9.0",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.9.0"
   },
   "Grafana": {
     "published_at": "2026-09-29T09:02:18Z",

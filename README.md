@@ -10,7 +10,7 @@ I use it to keep track of version upgrades for my own projects (Terraform, Kuber
 ## Latest report
 
 <!-- LATEST:START -->
-**2026-10-08** — no new releases. [Full report](reports/2026/10/2026-10-08.md)
+**2026-10-09** — Docker (moby). [Full report](reports/2026/10/2026-10-09.md)
 <!-- LATEST:END -->
 
 All reports: [`reports/`](reports/)
