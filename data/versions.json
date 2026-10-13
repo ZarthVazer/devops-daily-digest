@@ -15,9 +15,9 @@
     "url": "https://github.com/moby/moby/releases/tag/docker-v29.9.0"
   },
   "Grafana": {
-    "published_at": "2026-09-29T09:02:18Z",
-    "tag": "v13.2.3",
-    "url": "https://github.com/grafana/grafana/releases/tag/v13.2.3"
+    "published_at": "2026-10-13T11:41:03Z",
+    "tag": "v13.2.4",
+    "url": "https://github.com/grafana/grafana/releases/tag/v13.2.4"
   },
   "Helm": {
     "published_at": "2026-09-09T23:51:48Z",
