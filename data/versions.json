@@ -35,9 +35,9 @@
     "url": "https://github.com/prometheus/prometheus/releases/tag/v3.15.1"
   },
   "Terraform": {
-    "published_at": "2026-10-21T17:32:54Z",
-    "tag": "v1.17.0",
-    "url": "https://github.com/hashicorp/terraform/releases/tag/v1.17.0"
+    "published_at": "2026-10-28T18:02:22Z",
+    "tag": "v1.17.1",
+    "url": "https://github.com/hashicorp/terraform/releases/tag/v1.17.1"
   },
   "Trivy": {
     "published_at": "2026-10-21T11:18:34Z",
