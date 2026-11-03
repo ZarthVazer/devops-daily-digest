@@ -1,13 +1,13 @@
 {
   "Ansible": {
-    "published_at": "2026-10-05T15:11:41Z",
-    "tag": "v2.21.5",
-    "url": "https://github.com/ansible/ansible/releases/tag/v2.21.5"
+    "published_at": "2026-11-02T17:35:29Z",
+    "tag": "v2.22.0",
+    "url": "https://github.com/ansible/ansible/releases/tag/v2.22.0"
   },
   "Argo CD": {
-    "published_at": "2026-10-20T19:26:34Z",
-    "tag": "v3.5.6",
-    "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.6"
+    "published_at": "2026-11-02T20:14:51Z",
+    "tag": "v3.5.7",
+    "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.7"
   },
   "Docker (moby)": {
     "published_at": "2026-10-20T20:51:17Z",
