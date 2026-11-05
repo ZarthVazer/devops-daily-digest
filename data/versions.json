@@ -5,9 +5,9 @@
     "url": "https://github.com/ansible/ansible/releases/tag/v2.22.0"
   },
   "Argo CD": {
-    "published_at": "2026-11-03T22:29:38Z",
-    "tag": "v3.6.0",
-    "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.6.0"
+    "published_at": "2026-11-04T14:20:31Z",
+    "tag": "v3.6.1",
+    "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.6.1"
   },
   "Docker (moby)": {
     "published_at": "2026-11-03T22:37:18Z",
